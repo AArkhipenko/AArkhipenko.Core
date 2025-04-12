@@ -1,2 +1,4 @@
 # AArkhipenko.Core
-nuget-проект с ядровыми настройками
+
+Nuget-проект с базовым функционалом <br/>
+[подробнее...](../AArkhipenko.Core/README.md)
