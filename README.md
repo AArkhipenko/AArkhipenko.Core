@@ -6,6 +6,7 @@ Nuget-проект с базовым функционалом
 
 1. Ошибка задания параметров запроса [BadRequestException](./AArkhipenko.Core/Exceptions/BadRequestException.cs)
 1. Не найдена сущность [NotFoundException](./AArkhipenko.Core/Exceptions/NotFoundException.cs)
+1. Ошибка авторизации [AuthorizationException](./AArkhipenko.Core/Exceptions/AuthorizationException.cs)
 
 ## Методы расширения
 
