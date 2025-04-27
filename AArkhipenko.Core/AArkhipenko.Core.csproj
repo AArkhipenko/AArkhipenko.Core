@@ -5,10 +5,13 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 		<Title>AArkhipenko.Core</Title>
+		<PackageId>AArkhipenko.Core</PackageId>
 		<Version>0.1.2</Version>
+		<Authors>Arkhipenko Aleksey</Authors>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 		<PackageLicenseFile>LICENSE</PackageLicenseFile>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<RepositoryUrl>https://github.com/AArkhipenko/AArkhipenko.Core</RepositoryUrl>
 	</PropertyGroup>
 
 	<ItemGroup>
