@@ -8,6 +8,11 @@
         /// <summary>
         /// Название заголовка, в котором лежит ИД цепочки запросов
         /// </summary>
-        public const string RequestChainId = "Request-Chain-Id";
+        public static string RequestChainId => "Request-Chain-Id";
+
+        /// <summary>
+        /// Ключ для поиска названия сервиса в переменных окружения
+        /// </summary>
+        public static string ServiceName => "SERVICE_NAME";
     }
 }
